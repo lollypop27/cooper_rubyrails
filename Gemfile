@@ -8,6 +8,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'rack-cors', require: 'rack/cors'
 gem 'responders', '~> 2.0'
 gem 'devise_token_auth'
+gem 'omniauth'
 
 group :development, :test do
   gem 'pry'
