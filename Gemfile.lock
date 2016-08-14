@@ -200,6 +200,7 @@ DEPENDENCIES
   shoulda-matchers
   spring
   spring-watcher-listen (~> 2.0.0)
+  sprockets
   turbolinks (~> 5)
 
 BUNDLED WITH

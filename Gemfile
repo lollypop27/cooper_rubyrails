@@ -9,6 +9,7 @@ gem 'rack-cors', require: 'rack/cors'
 gem 'responders', '~> 2.0'
 gem 'devise_token_auth'
 gem 'omniauth'
+gem 'sprockets'
 
 group :development, :test do
   gem 'pry'
